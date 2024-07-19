@@ -18,6 +18,8 @@
     width: 80%;
     height: 650px;
     position: relative;
+    display: flex;
+    align-items: center;
     overflow: hidden;
 }
 
